@@ -1,0 +1,3 @@
+# Miras Host File Blocklist
+# Blocklist for nefarious websites or just webistes i want blocked.
+# Link: https://github.com/miraficus/MirasHostFileBlocklist
