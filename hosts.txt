@@ -1,3 +1,53 @@
 # Miras Host File Blocklist
 # Blocklist for nefarious websites or just webistes i want blocked.
 # Link: https://github.com/miraficus/MirasHostFileBlocklist
+# Raw: https://raw.githubusercontent.com/miraficus/MirasHostFileBlocklist/main/hosts.txt
+#
+
+# localhost name resolution
+# 127.0.0.1  localhost
+# ::1  localhost
+
+# [roblox.com]
+127.0.0.1  roblox.com
+
+# [steamunlocked.net]
+127.0.0.1  steamunlocked.net
+
+# [gogunlocked.com]
+127.0.0.1  gogunlocked.com
+
+# [nosteam.ro]
+127.0.0.1  nosteam.ro
+
+# [nosteamgames.ro]
+127.0.0.1  nosteamgames.ro
+
+# [skidrowcodex.net]
+127.0.0.1  skidrowcodex.net
+
+# [skidrowreloaded.com]
+127.0.0.1  skidrowreloaded.com
+
+# [fitgirl-repacks.site]
+127.0.0.1  fitgirl-repacks.site
+
+# [dodi-repacks.site]
+127.0.0.1  dodi-repacks.site
+
+# [freegogpcgames.com]
+127.0.0.1  freegogpcgames.com
+
+# [gog-games.to]
+127.0.0.1  gog-games.to
+
+# [igg-games.com]
+127.0.0.1  igg-games.com
+# [repack-games.com]
+127.0.0.1  repack-games.com
+
+# [nopaystation.com]
+127.0.0.1  nopaystation.com
+
+# []
+#127.0.0.1 
